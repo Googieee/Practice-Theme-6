@@ -1,0 +1,14 @@
+C:\Users\Juice Машина\source\repos\Practice Theme 6\bin\Debug\net8.0\Practice Theme 6.exe
+C:\Users\Juice Машина\source\repos\Practice Theme 6\bin\Debug\net8.0\Practice Theme 6.deps.json
+C:\Users\Juice Машина\source\repos\Practice Theme 6\bin\Debug\net8.0\Practice Theme 6.runtimeconfig.json
+C:\Users\Juice Машина\source\repos\Practice Theme 6\bin\Debug\net8.0\Practice Theme 6.dll
+C:\Users\Juice Машина\source\repos\Practice Theme 6\bin\Debug\net8.0\Practice Theme 6.pdb
+C:\Users\Juice Машина\source\repos\Practice Theme 6\obj\Debug\net8.0\Practice Theme 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juice Машина\source\repos\Practice Theme 6\obj\Debug\net8.0\Practice Theme 6.AssemblyInfoInputs.cache
+C:\Users\Juice Машина\source\repos\Practice Theme 6\obj\Debug\net8.0\Practice Theme 6.AssemblyInfo.cs
+C:\Users\Juice Машина\source\repos\Practice Theme 6\obj\Debug\net8.0\Practice Theme 6.csproj.CoreCompileInputs.cache
+C:\Users\Juice Машина\source\repos\Practice Theme 6\obj\Debug\net8.0\Practice Theme 6.dll
+C:\Users\Juice Машина\source\repos\Practice Theme 6\obj\Debug\net8.0\refint\Practice Theme 6.dll
+C:\Users\Juice Машина\source\repos\Practice Theme 6\obj\Debug\net8.0\Practice Theme 6.pdb
+C:\Users\Juice Машина\source\repos\Practice Theme 6\obj\Debug\net8.0\Practice Theme 6.genruntimeconfig.cache
+C:\Users\Juice Машина\source\repos\Practice Theme 6\obj\Debug\net8.0\ref\Practice Theme 6.dll
